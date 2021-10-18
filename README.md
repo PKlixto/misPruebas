@@ -1,6 +1,4 @@
 # misPruebas
-Prueba del uso de git
-Probando los comando de git
+Prueba del uso de los comandos de git
 
 
-commit
